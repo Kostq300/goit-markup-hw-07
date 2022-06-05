@@ -792,8 +792,8 @@ address {
   fill: var(--primary-white-color);
 }
 
-.soc-link:hover,
-.soc-link:focus {
+.soc__link:hover,
+.soc__link:focus {
   background-color: var(--accent-color);
 }
 
